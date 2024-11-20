@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagya-gamage&label=Profile%20views&color=0e75b6&style=flat" alt="bhagya-gamage" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theadithyaaa&theme=darkhub" alt="bhagya-gamage" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagya-gamage&theme=darkhub" alt="bhagya-gamage" /></a> </p>
 
 <hr>
  <h3>About me...</h3>
