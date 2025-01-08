@@ -17,7 +17,7 @@
  <h2 align="center"> Stats </h2>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Adithya's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagya-gamage&theme=blue-green" height="192px"/>
+    <img alt="Bhagya's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagya-gamage&theme=blue-green" height="192px"/>
   </a>
    <br>
    <br>
